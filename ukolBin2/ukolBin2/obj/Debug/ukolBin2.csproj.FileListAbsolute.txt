@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\bin\Debug\ukolBin2.exe.config
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\bin\Debug\ukolBin2.exe
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\bin\Debug\ukolBin2.pdb
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\obj\Debug\ukolBin2.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\obj\Debug\ukolBin2.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\obj\Debug\ukolBin2.Form1.resources
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\obj\Debug\ukolBin2.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\obj\Debug\ukolBin2.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\obj\Debug\ukolBin2.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\obj\Debug\ukolBin2.exe
+C:\Users\marsy\Source\Repos\ukolBin2\ukolBin2\obj\Debug\ukolBin2.pdb

@@ -1,0 +1,4 @@
+1;Martin;Syrový;M;198;83
+2;Hynek;Svoboda;M;193;82
+3;Tonda;Štolfa;M;181;75
+4;Kuba;Vomela;M;180;71
